@@ -89,3 +89,21 @@ United Kingdom, Australia, India, other)
 Using 20% of the data as a test set, the SVC model predicted the correct test set targets with an overall accuracy of 96%.
 The positive ASD classification precision is 97% and only one false positive out of 104 
 true negatives was predicted with a recall of 99%. 
+
+## Conclusions and Reflection
+By completing this project, I achieved a deeper understanding of the best practices for 
+model selection and evaluation, core competencies in predictive analytics. I also learned more 
+about undiagnosed ASD in adults, an ignored and growing crisis. There is a lot to like about Dr. 
+Thabtah’s work in ASD which empowers sufferers to self-diagnose and seek targeted therapy 
+and/or experts directly to improve quality of life. Seeking mental health treatment or assistance 
+with disability is fraught with barriers and misdirection, so I believe providing knowledge and 
+tools to those with ASD is a noble cause.  
+The models built in this project streamline Dr. Thabtah’s screening models yet retain high 
+predictive performance. The six questions out of the AQ-10 used in the models all relate to two 
+clear behavioral traits, trouble with non-verbal communication via facial expressions and 
+difficulty managing multiple tasks and distractions. This simplified model for flagging ASD is 
+practical for front line encounters because the predictors can be ascertained through casual 
+conversation as opposed to more clinical and psychiatric interrogation. I hope that my research 
+dispels the stereotype of ASD patients always exhibiting “stimming” behaviors such as rocking 
+or hand flapping, as no references to any repetitive physical activity are used as inputs in the 
+predictive models in this project. 
