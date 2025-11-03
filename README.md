@@ -4,7 +4,9 @@
 96% accurate positive adult ASD flag using a support vector classifier with 6 questions from the AQ-10 and 5 non-behavioral patient attributes.
 
 
-## Acknowledgements
+## ![AutismSpeaks](https://github.com/user-attachments/assets/ffd56063-76ab-4fc7-bd47-ac9eec9d2857)
+
+Acknowledgements
 
  - [Allison, C., Auyeung, B., & Baron-Cohen, S. (2012). Toward brief “Red flags” for autism screening: The short autism spectrum quotient and the short quantitative checklist in 1,000 cases and 3,000 controls. Journal of the American Academy of Child & Adolescent 
 Psychiatry, 51(2). doi: 10.1016/j.jaac.2011.11.003](https://docs.autismresearchcentre.com/papers/2012_Allisonetal_JAACAP_RedFlags.pdf)
